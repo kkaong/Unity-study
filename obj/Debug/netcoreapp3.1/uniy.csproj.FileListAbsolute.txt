@@ -1,0 +1,12 @@
+/Users/chaewonshin/uniy/bin/Debug/netcoreapp3.1/uniy.deps.json
+/Users/chaewonshin/uniy/bin/Debug/netcoreapp3.1/uniy.runtimeconfig.json
+/Users/chaewonshin/uniy/bin/Debug/netcoreapp3.1/uniy.runtimeconfig.dev.json
+/Users/chaewonshin/uniy/bin/Debug/netcoreapp3.1/uniy.dll
+/Users/chaewonshin/uniy/bin/Debug/netcoreapp3.1/uniy.pdb
+/Users/chaewonshin/uniy/obj/Debug/netcoreapp3.1/uniy.csprojAssemblyReference.cache
+/Users/chaewonshin/uniy/obj/Debug/netcoreapp3.1/uniy.AssemblyInfoInputs.cache
+/Users/chaewonshin/uniy/obj/Debug/netcoreapp3.1/uniy.AssemblyInfo.cs
+/Users/chaewonshin/uniy/obj/Debug/netcoreapp3.1/uniy.csproj.CoreCompileInputs.cache
+/Users/chaewonshin/uniy/obj/Debug/netcoreapp3.1/uniy.dll
+/Users/chaewonshin/uniy/obj/Debug/netcoreapp3.1/uniy.pdb
+/Users/chaewonshin/uniy/obj/Debug/netcoreapp3.1/uniy.genruntimeconfig.cache
